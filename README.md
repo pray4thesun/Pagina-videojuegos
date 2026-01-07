@@ -20,8 +20,12 @@ Noticias actualizadas sobre videojuegos, estudios, trailers y novedades del sect
 - Tecnologías utilizadas
 
 Backend:	Node.js, Express
+
 Frontend:	HTML, CSS, JavaScript, Pug
+
 Base de datos:	SQL (MySQL / MariaDB)
-Estilos:	CSS modular, efectos neon, diseño gamer
+
+Estilos:	CSS modular, efectos neon
+
 Otros:	Middleware, rutas dinámicas, controladores
 
