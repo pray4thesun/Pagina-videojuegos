@@ -2,6 +2,8 @@ PixelZone – Noticias, Eventos y Lanzamientos del Mundo Gamer
 PixelZone es una plataforma web dedicada a centralizar noticias, eventos y lanzamientos de videojuegos, diseñada para ofrecer una experiencia moderna, rápida y visualmente atractiva.
 El proyecto combina un backend sólido con Node.js  y una interfaz dinámica construida con Pug, todo conectado a una base de datos SQL para gestionar contenido de forma eficiente.
 
+_________________________________________________________________________________________________________
+
 Características principales
 Noticias actualizadas sobre videojuegos, estudios, trailers y novedades del sector.
 
