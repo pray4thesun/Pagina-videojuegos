@@ -25,19 +25,3 @@ Base de datos:	SQL (MySQL / MariaDB)
 Estilos:	CSS modular, efectos neon, diseño gamer
 Otros:	Middleware, rutas dinámicas, controladores
 
-
-pixelzone/
-│
-├── src/
-│   ├── routes/        # Rutas de la aplicación
-│   ├── controllers/   # Lógica de cada sección
-│   ├── models/        # Modelos SQL / Sequelize
-│   ├── views/         # Plantillas Pug
-│   └── public/        # CSS, JS, imágenes
-│
-├── database/
-│   └── pixelzone.sql  # Estructura y datos de la BD
-│
-├── app.js             # Configuración principal de Express
-├── package.json
-└── README.md
