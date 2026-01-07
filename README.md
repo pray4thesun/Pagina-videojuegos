@@ -17,6 +17,8 @@ Noticias actualizadas sobre videojuegos, estudios, trailers y novedades del sect
 
 - Frontend dinámico con JavaScript, animaciones y estilos gamer/neon.
 
+_________________________________________________________________________________________________________
+
 - Tecnologías utilizadas
 
 Backend:	Node.js, Express
